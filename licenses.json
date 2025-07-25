@@ -1,1 +1,6 @@
-{}
+{
+    "licenses": [
+      "existing-license-1",
+      "existing-license-2"
+    ]
+  }
