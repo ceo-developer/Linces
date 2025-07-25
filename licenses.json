@@ -1,6 +1,7 @@
 {
-    "licenses": [
-      "existing-license-1",
-      "existing-license-2"
-    ]
-  }
+  "licenses": [
+    "existing-license-1",
+    "existing-license-2",
+    "226294080930|2025-09-22|MyUniqueSignature123|dem.py"
+  ]
+}
